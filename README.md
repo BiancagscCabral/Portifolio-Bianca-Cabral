@@ -1,6 +1,6 @@
 # Portfólio — Bianca Cabral
 
-Site estático (1 arquivo `index.html`, sem build, sem dependências de instalação).
+
 
 ## O que editar antes de publicar
 
